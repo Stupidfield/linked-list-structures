@@ -1,12 +1,3 @@
-/**
- * Brandon Ferrell
- * fbb150030
- * Project 3 (Maintenance Project 2)
- * 10/26/15
- * CS 1337.002
- * Jason Smith
- */
-
 #include <iostream>
 #include <fstream>
 #include <string>
